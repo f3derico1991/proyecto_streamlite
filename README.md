@@ -1,6 +1,7 @@
 # Implementacion de proyectos en Python con streanlit
 <img src="https://github.com/f3derico1991/proyecto_streamlite/blob/main/data/logo.png" />
 
+Streamlit es un “framework” de Python de código abierto que permite de manera sencilla e integrada desarrollar aplicaciones gracias a la interacción con otras librerías para su empleo en campos de la teledetección, ciencia de datos, etc.
 
 Link del resustado final: [Link](https://f3derico1991-proyecto-streamlite-streamlite-codigo-jxrjdr.streamlit.app/)
 
