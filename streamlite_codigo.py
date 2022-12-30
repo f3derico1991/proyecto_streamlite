@@ -43,7 +43,7 @@ with header:
 
 
 with dataset:
-    st.header('Data-Setete')
+    st.header('Data-Set')
     st.markdown('[Kaggle descarga dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication)')
     st.markdown('''Los datos tienen 615 filas y 13 columnas.
             *Problema*: La empresa desea automatizar el proceso de elegibilidad del préstamo (en tiempo real) 
@@ -52,7 +52,7 @@ with dataset:
             Para automatizar este proceso, han dado un problema para identificar los segmentos de clientes, aquellos son elegibles para el monto del préstamo para que puedan dirigirse 
             específicamente a estos clientes. Aquí han proporcionado un conjunto de datos parcial.''')
 
-    df = pd.read_csv(r'https://docs.google.com/spreadsheets/d/e/2PACX-1vRv2ZjjEw24DPfYUzW21PoOVOrdfK0NH5FFvJgJtG3KZA46hUB5GcPBjulNM23Mfut5MqW9BcyXQzH8/pub?gid=302117549&single=true&output=csv')
+    df = pd.read_csv(r'data/prestamos.csv')
     st.table(df.head(10))
 
     
