@@ -24,8 +24,8 @@ model_training = st.container()
 
 with st.sidebar:
     st.title('Proyecto con Streamlit')
-    # image1 = Image.open(r'https://drive.google.com/file/d/1XMcwyTAbSf6DVAnE87hRcyTxjAXVbUAm/view?usp=sharing')
-    # st.image(image1)
+    image1 = Image.open(r'https://github.com/f3derico1991/proyecto_streamlite/blob/main/data/logo.png')
+    st.image(image1)
     st.markdown('Utilizacion de Streamlit para implementacion de modelos de machine learning en python')
     
     st.markdown('Creado por:  **Herrera H. Federico**')
