@@ -31,3 +31,4 @@ Se crea una aplicacion para visualizar y analizar 2 modelos posibles de clasific
 
 
 ### Codigo:<a name="id3"></a>
+[Codigo en Python](https://github.com/f3derico1991/proyecto_streamlite/blob/main/streamlite_codigo.py)
