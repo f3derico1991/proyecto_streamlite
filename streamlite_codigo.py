@@ -96,7 +96,7 @@ with model_training:
     modelo_train = modelo.fit(X_train, y_train)
     y_pred = modelo_train.predict(X_test)
 
-    disp_col.markdown('##### Accuracy del modelo es: ')
+    disp_col.markdown('##### Accuracy del modelo: ')
     disp_col.write(accuracy_score(y_pred,y_test))
 
 
