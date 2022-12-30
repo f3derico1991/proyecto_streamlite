@@ -11,7 +11,7 @@
 Streamlit es un “framework” de Python de código abierto que permite de manera sencilla e integrada desarrollar aplicaciones gracias a la interacción con otras librerías para su empleo en ciencia de datos y otros campos.
 
 ### Aplicación:<a name="id2"></a>
-Se crea una aplicacion para visualizar un conjunto de datos y analizar 2 modelos posibles de clasificaion.
+Se crea una aplicacion para visualizar un conjunto de datos y analizar 2 modelos posibles de clasificación.
 
 **Estructura de la apliccaión:**
 * Presentacion de los datos a analizar
