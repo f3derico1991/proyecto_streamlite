@@ -43,7 +43,7 @@ with header:
 
 
 with dataset:
-    st.header('Data-Set')
+    st.header('Data-Setete')
     st.markdown('[Kaggle descarga dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication)')
     st.markdown('''Los datos tienen 615 filas y 13 columnas.
             *Problema*: La empresa desea automatizar el proceso de elegibilidad del préstamo (en tiempo real) 
