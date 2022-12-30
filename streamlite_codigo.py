@@ -62,16 +62,6 @@ with features:
 
     variables_caterogicas = ['Gender',"Married","Property_Area","Education"]
 
-    # st.markdown('##### *Segmentacion segun estado final del credito*')
-    # Estado_credito = st.multiselect('',df['Loan_Status'].unique())
-
-    # def filter_data(df, Estado_credito):
-    #     df_copy = df.copy()
-    #     if len(Estado_credito) > 0:
-    #         df_copy = df_copy[df_copy['Loan_Status'].isin(Estado_credito)]
-    #     return df_copy
-    # df_ = filter_data(df, Estado_credito)
-
     st.markdown('##### *Graficos de variabes categoricas*')
     for i in variables_caterogicas:
         with st.expander(i):
