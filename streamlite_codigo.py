@@ -23,7 +23,7 @@ model_training = st.container()
 
 
 with st.sidebar:
-    st.title('Deployment en Python con Streamlit')
+    st.title('Deployment de proyectos con Streamlit')
     image1 = Image.open(r'data/logo.png')
     st.image(image1)
     st.markdown('Utilizacion de Streamlit para implementacion de modelos de machine learning en python')
