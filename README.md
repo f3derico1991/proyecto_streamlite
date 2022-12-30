@@ -1,5 +1,5 @@
 # Implementacion de proyectos en Python con streanlit
-<img src="https://github.com/f3derico1991/Python_reportes_express/blob/main/imagenes/pandasprofiling.png" width="550" height="350" />
+<img src="https://github.com/f3derico1991/proyecto_streamlite/blob/main/data/logo.png" />
 
 
 Link del resustado final: [Link](https://f3derico1991-proyecto-streamlite-streamlite-codigo-jxrjdr.streamlit.app/)
@@ -16,4 +16,4 @@ a continuacion una breve explicacion sobre las caracteristicas de cada una de el
 
 ## Pandas profiling:<a name="id1"></a>
 
-<img src="https://github.com/f3derico1991/Python_reportes_express/blob/main/imagenes/pandasprofiling.png" width="550" height="350" />
+
